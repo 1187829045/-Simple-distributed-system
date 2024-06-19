@@ -1,2 +1,2 @@
 # -Simple-distributed-system
-This is a simple distributed system, for future study MIT6.824, practice
+A very simple distributed system implemented without any framework, used as an exercise. I may do MIT6.824 later to deepen my knowledge of distributed systems.
